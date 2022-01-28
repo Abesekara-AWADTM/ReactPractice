@@ -1,22 +1,22 @@
 {
-    "blogs": [
-      {
-        "title": "Mrs.Queen",
-        "body": " A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
-        "author": "Yoon Sung-sik",
-        "id": 1
-      },
-      {
-        "title": "moon embracing the sun",
-        "body":"Set against the backdrop of a Korean traditional palace, this fantasy drama tells the poignant love story between a king and a female shaman.",
-        "author": "Jin Soo-wan",
-        "id": 2
-      },
-      {
-        "title": "Moon Lovers",
-        "body":"Ha-jin travels 1000 years back in time and lands in the era of Goryeo Dynasty as a young girl named Hae-soo. Ha-jin, now trapped in another person's body, becomes involved in a power struggle against various vicious contenders to the throne.",
-        "author": "Bu Bu Jing Xin",
-        "id": 2
-      }
-    ]
-  }
+  "blogs": [
+    {
+      "title": "Mrs.Queen",
+      "body": " A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
+      "author": "Yoon Sung-sik",
+      "id": 1
+    },
+    {
+      "title": "moon embracing the sun",
+      "body": "Set against the backdrop of a Korean traditional palace, this fantasy drama tells the poignant love story between a king and a female shaman.",
+      "author": "Jin Soo-wan",
+      "id": 2
+    },
+    {
+      "title": "Moon Lovers",
+      "body": "Ha-jin travels 1000 years back in time and lands in the era of Goryeo Dynasty as a young girl named Hae-soo. Ha-jin, now trapped in another person's body, becomes involved in a power struggle against various vicious contenders to the throne.",
+      "author": "Bu Bu Jing Xin",
+      "id": 2
+    }
+  ]
+}
